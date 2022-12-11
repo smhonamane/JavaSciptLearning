@@ -6,6 +6,7 @@ function display()
     console.log("Learning Angular");
 }
 display();
+
 console.log("============================================================");
 
 console.log("====2] Personal Details====");
